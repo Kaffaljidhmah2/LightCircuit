@@ -27,8 +27,9 @@ Other blocks serve as light reflectors and splitters.
 
 ### Shortcuts
 
- 1. Use `1~9` to select blocks
- 2. TBD.
+ - Use `1~9` to select blocks.
+ - Press `s` to save current design pattern into a `.dgn` file.
+ - Press `o` to load `.dgn` files.
 
 ### Hack
 

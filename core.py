@@ -1,7 +1,12 @@
 import queue
 
-NX=400
-NY=400
+##### Canvas size
+NX=200
+NY=200
+##########
+
+
+
 MAXUD=16
 
 #DIRECTION
