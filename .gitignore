@@ -1,0 +1,8 @@
+*.dgn
+
+.DS_Store
+
+test
+main.cpp
+_pycache_
+__pycache__
