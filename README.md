@@ -29,3 +29,12 @@ Other blocks serve as light reflectors and splitters.
 
  1. Use `1~9` to select blocks
  2. TBD.
+
+### Hack
+
+in `core.py`: change the following to resize the canvas.
+
+```
+NX=400
+NY=400
+```
