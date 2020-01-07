@@ -254,7 +254,7 @@ def DrawLight(cvobj, x,y,state, offsetx=0, offsety=0):
 
 def InputHandler():
     url = input("Enter dgn file location:")
-    if '.dgn' not in url:
+    if ('.dgn' not in url) and ('.txt' not in url):
         url+='.dgn'
     s=open(url,'r').read()
     

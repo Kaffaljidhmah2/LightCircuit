@@ -12,6 +12,8 @@ Use NOR Gate to build a CPU!
 
 Other blocks serve as light reflectors and splitters.
 
+![example.png](example.png)
+
 
 ---
 
@@ -22,8 +24,9 @@ Other blocks serve as light reflectors and splitters.
 ### Usage
 
  1. Clone this repo.
- 2. run `python3 GUI.py`
- 3. Enjoy hacking!
+ 2. run `python3 GUI.py`.
+ 3. Press `o` on main window, and then enter `4bitReg.txt` in your terminal.
+ 4. Enjoy hacking!
 
 ### Shortcuts
 
