@@ -1,6 +1,7 @@
 *.dgn
 
 .DS_Store
+code_gen.py
 
 test
 main.cpp
